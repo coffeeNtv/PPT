@@ -62,9 +62,9 @@ Our code for metrics calculation is provided in evaluation.py
 
 [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/wzhang472-c_my_cityu_edu_hk/Eqlv5Dz9rApCvtwXlRBtPVMBM18vy0jQ-anLvSaWkXr6BA)
 
-* Item BAIDU Disk, to be updated
+* BAIDU Disk, to be updated
 
-* Item If you have any trouble accessing our dataset, please feel free to let us know. 
+* If you have any trouble accessing our dataset, please feel free to let us know. 
 
 
 
