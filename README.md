@@ -1,6 +1,6 @@
 # **High-resolution Medical Image Translation via Patch Alignment-based Bidirectional Contrastive Learning (MICCAI 2024)**
 
-Thank you for your attention of our work. This is the codebase for Patch alignment-based Paired image-to-image Translation (PPT).  Please feel free to cite us if our work can be helpful for your study.
+Thank you for your attention. This is the codebase for Patch alignment-based Paired image-to-image Translation (PPT).  Please feel free to cite us if our work can be helpful for your study.
 
 ```
 @inproceedings{zhang2024ppt,
@@ -60,11 +60,11 @@ Our code for metrics calculation is provided in evaluation.py
 
 ## Dataset
 
-[OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/wzhang472-c_my_cityu_edu_hk/Eqlv5Dz9rApCvtwXlRBtPVMBM18vy0jQ-anLvSaWkXr6BA)
+* [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/wzhang472-c_my_cityu_edu_hk/Eqlv5Dz9rApCvtwXlRBtPVMBM18vy0jQ-anLvSaWkXr6BA)
 
-* BAIDU Disk, to be updated
+* BAIDU Disk, link to be updated.
 
-* If you have any trouble accessing our dataset, please feel free to let us know. 
+If you have any trouble accessing our dataset, please feel free to let us know. 
 
 
 
