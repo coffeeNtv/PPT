@@ -16,15 +16,15 @@ Thank you for your attention of our work. This is the codebase for Patch alignme
 
 ## Environment
 
-dominate==2.6.0
-h5py==3.7.0
-numpy==1.21.5
-opencv_python==4.6.0.66
-packaging==21.3
-Pillow==10.0.0
-torch==1.11.0
-torchvision==0.12.0
-visdom==0.2.3
+dominate==2.6.0 <br>
+h5py==3.7.0 <br>
+numpy==1.21.5 <br>
+opencv_python==4.6.0.66 <br>
+packaging==21.3 <br>
+Pillow==10.0.0 <br>
+torch==1.11.0 <br>
+torchvision==0.12.0 <br>
+visdom==0.2.3 <br>
 
 
 
@@ -60,11 +60,11 @@ Our code for metrics calculation is provided in evaluation.py
 
 ## Dataset
 
-$\bull$ [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/wzhang472-c_my_cityu_edu_hk/Eqlv5Dz9rApCvtwXlRBtPVMBM18vy0jQ-anLvSaWkXr6BA)
+[OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/wzhang472-c_my_cityu_edu_hk/Eqlv5Dz9rApCvtwXlRBtPVMBM18vy0jQ-anLvSaWkXr6BA)
 
-$\bull$ BAIDU Disk, to be updated
+* Item BAIDU Disk, to be updated
 
-If you have any trouble accessing our dataset, please feel free to let us know. 
+* Item If you have any trouble accessing our dataset, please feel free to let us know. 
 
 
 
