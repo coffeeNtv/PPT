@@ -1,16 +1,6 @@
-# **High-resolution Medical Image Translation via Patch Alignment-based Bidirectional Contrastive Learning (MICCAI 2024)**
+# **High-resolution Medical Image Translation via Patch Alignment-based Bidirectional Contrastive Learning (MICCAI 2024)** [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_17)]
 
-Thank you for your attention. This is the codebase for Patch alignment-based Paired image-to-image Translation (PPT).  Please feel free to cite us if our work can be helpful for your study.
-
-```
-@inproceedings{zhang2024ppt,
-  title={High-resolution Medical Image Translation via Patch Alignment-based Bidirectional Contrastive Learning},
-  author={Zhang, Wei and Hui, Tikho and Tse, Puiying and Hill, Fraser and Lau, Condon and Li, Xinyue},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2024},
-  organization={Springer}
-}
-```
+Thank you for your attention. This is the codebase for Patch alignment-based Paired image-to-image Translation (PPT). Please feel free to raise any question.
 
 
 
@@ -40,6 +30,8 @@ Put the paired images into the below format, where A is your source images ( H&E
 │  └─testB
 ```
 
+
+
 ## Training
 
 python train.py --dataroot /home/user/ppt/dataset/ --name test
@@ -64,11 +56,27 @@ Our code for metrics calculation is provided in evaluation.py
 
 * [BAIDU Disk](https://pan.baidu.com/s/1kQ8PdEbWVcuqwEtc3T9avg?pwd=dsgh) Passcode:dsgh 
 
-If you have any trouble accessing our dataset, please feel free to let us know. 
+If you have any trouble accessing our dataset, feel free to let us know. 
+
+
+
+## Citation
+
+ Please feel free to cite us if our work can be helpful for your study. Thank you.
+
+```
+@inproceedings{zhang2024ppt,
+  title={High-Resolution Medical Image Translation via Patch Alignment-Based Bidirectional Contrastive Learning},
+  author={Zhang, Wei and Hui, Tik Ho and Tse, Pui Ying and Hill, Fraser and Lau, Condon and Li, Xinyue},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={178--188},
+  year={2024},
+  organization={Springer}
+}
+```
 
 
 
 ## Acknowledgement
 
 Our code uses libraries from [Pix2pixHD](https://github.com/NVIDIA/pix2pixHD), [CUT](https://github.com/taesungp/contrastive-unpaired-translation) and [ASP](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE).
-
