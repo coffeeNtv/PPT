@@ -73,7 +73,7 @@ If you have any trouble accessing our dataset, feel free to let us know.
   year={2024},
   month = {October},
   publisher = {Springer Nature Switzerland},
-  pages={178 -- 188},
+  pages={178 -- 188}
 }
 ```
 
