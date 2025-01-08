@@ -65,13 +65,15 @@ If you have any trouble accessing our dataset, feel free to let us know.
  Please feel free to cite us if our work can be helpful for your study. Thank you.
 
 ```
-@inproceedings{zhang2024ppt,
+@inproceedings{Zhang2024ppt,
   title={High-Resolution Medical Image Translation via Patch Alignment-Based Bidirectional Contrastive Learning},
   author={Zhang, Wei and Hui, Tik Ho and Tse, Pui Ying and Hill, Fraser and Lau, Condon and Li, Xinyue},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={178--188},
+  booktitle={Proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+  volume = {LNCS 15004},
   year={2024},
-  organization={Springer}
+  month = {October},
+  publisher = {Springer Nature Switzerland},
+  pages={178 -- 188},
 }
 ```
 
